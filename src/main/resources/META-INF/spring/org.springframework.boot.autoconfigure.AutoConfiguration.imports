@@ -1,0 +1,2 @@
+com.weiyunhsiao.module.dmdsbs.autoconfigure.DynamicRoutingMongoDatasourceAutoConfigure
+com.weiyunhsiao.module.dmdsbs.autoconfigure.RefreshMongoDynamicDataSourceListenerAutoConfigure
